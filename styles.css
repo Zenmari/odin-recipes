@@ -1,0 +1,16 @@
+p {
+    font-size: 20px;
+}
+
+li {
+    background-color: orange;
+}
+
+.garfield {
+    font-weight: 800;
+}
+
+.lasagna {
+    height: auto;
+    width: 200px;
+}
